@@ -1,2 +1,8 @@
 April Teodoro
-Jonah Arellano
+Jonah Arellano:wq
+Arnold Zamora
+=======
+Nina Chua
+>>>>>>> fd03a263bc02c6b700e446ad1b7ad020c901cfb4
+arnold pa 
+>>>>>>> ab0b0dab7b0022d30f1c123fa0cc8d9edbf7f874
