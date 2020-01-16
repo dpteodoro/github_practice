@@ -1,22 +1,25 @@
 April Teodoro
-<<<<<<< HEAD
 Paola Basinillo
 Jonah Arellano:wq
 Arnold Zamora
->>>>>>> b890e0b9743d011c7ead9ae823e5d543229b3fb4
-=======
 
 Jomar Calauod
->>>>>>> d830c2a200c650cf269dc1dc19c7fc747df5760f
+
 Karen Nicole Kiang
 Nina Chua
 Jonah Arellano:wq
 Arnold Zamora
-<<<<<<< HEAD
 
->>>>>>> 538643a738e321d0d3ea85e39724a42f959c2192
-=======
->>>>>>> d830c2a200c650cf269dc1dc19c7fc747df5760f
 Nina Chua
 arnold pa 
+
+Jonah Arellano fave color: blue
+Arnold Zamora
+Jomar Calauod
+Karen Nicole Kiang
+Nina Chua
+Jonah Arellano:wq
+Arnold Zamora - cornflower blue
+Nina Chua 
+
 
