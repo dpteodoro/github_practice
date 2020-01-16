@@ -11,6 +11,6 @@ Jonah Arellano:wq
 Arnold Zamora
 
 Nina Chua
->>>>>>> fd03a263bc02c6b700e446ad1b7ad020c901cfb4
+>>>>>>> fd03a
 arnold pa 
 
